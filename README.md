@@ -7,7 +7,7 @@ NOTE: The original dataset is not available from the original source (plantvilla
 
 Original paper URL: [https://arxiv.org/abs/1511.08060](https://arxiv.org/abs/1511.08060)
 
-    @inproceedings{DBLP:journals/corr/HughesS15,
+    @article{DBLP:journals/corr/HughesS15,
 	Author = {David P. Hughes and
                Marcel Salath{'{e} } },
 	Title = {An open access repository of images on plant health to enable the
@@ -24,3 +24,7 @@ Original paper URL: [https://arxiv.org/abs/1511.08060](https://arxiv.org/abs/151
 	bibsource = {dblp computer science bibliography, https://dblp.org}
     }
 
+You can download the dataset by:
+
+    git clone https://github.com/gabrieldgf4/PlantVillage-Dataset.git
+    cd PlantVillage-Dataset
