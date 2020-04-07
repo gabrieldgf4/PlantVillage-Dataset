@@ -5,9 +5,16 @@ images of healthy leaves that are not visibly affected by a disease.
 
 NOTE: The original dataset is not available from the original source (plantvillage.org), therefore we get this dataset from a paper that used it and here we republished it. 
 
-Original paper URL: arxiv.org/abs/1511.08060 Dataset URL: data.mendeley.com/datasets/tywbtsjrjv/1
+Original paper URL: [https://arxiv.org/abs/1511.08060](https://arxiv.org/abs/1511.08060)
 
-@article{DBLP:journals/corr/HughesS15,
+    @inproceedings{plummerCITE2018,
+	Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
+	Title = {Conditional Image-Text Embedding Networks},
+	Booktitle  = {The European Conference on Computer Vision (ECCV)},
+	Year = {2018}
+    }
+
+@inproceedings{plummerCITE2018,
   author    = {David P. Hughes and
                Marcel Salath{'{e} } },
   title     = {An open access repository of images on plant health to enable the
@@ -22,4 +29,4 @@ Original paper URL: arxiv.org/abs/1511.08060 Dataset URL: data.mendeley.com/data
   timestamp = {Mon, 13 Aug 2018 16:48:21 +0200},
   biburl    = {https://dblp.org/rec/bib/journals/corr/HughesS15},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+  }
