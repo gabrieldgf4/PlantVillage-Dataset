@@ -1,9 +1,9 @@
 # PlantVillage-Dataset
 
-The PlantVillage dataset contains 54,299 images. The images span 14 crop species: Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, Tomato. In containes images of 17 fungal diseases, 4 bacterial diseases, 2 mold (oomycete) diseases, 2 viral disease, and 1 disease caused by a mite. 12 crop species also have
+The PlantVillage dataset contains 54,304 images. The images span 14 crop species: Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Bell Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, Tomato. In containes images of 17 fungal diseases, 4 bacterial diseases, 2 mold (oomycete) diseases, 2 viral disease, and 1 disease caused by a mite. 12 crop species also have
 images of healthy leaves that are not visibly affected by a disease. 
 
-NOTE: The original dataset is not available from the original source (plantvillage.org), therefore we get this dataset from a paper that used it and here we republished it. 
+NOTE: The original dataset is not available from the original source (plantvillage.org), therefore we get this dataset from a paper that used it and here we republished it. Besides, from the healthy leaf directories, we removed five figures that did not represent the characteristics that they should have. So we put them in a separate directory, named as "x_Removed_from_Healthy_leaves".
 
 Original paper URL: [https://arxiv.org/abs/1511.08060](https://arxiv.org/abs/1511.08060)
 
